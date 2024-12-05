@@ -29,5 +29,3 @@ python AR.py
 python action_attackbyAR.py
 
 d
-
-d
